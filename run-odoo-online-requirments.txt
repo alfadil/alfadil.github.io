@@ -1,0 +1,15 @@
+1)server side:
+    - django api app.
+        * login via github.
+        * fetch client repos.
+        * fetch public repos.
+
+2)front-end:
+    - react app.
+        * main page
+        * signup/signin with github
+        * page to show client repos.
+        * add public repos.
+        * select odoo version and run a development open an (odoo) docker container.
+                give the user the access to the code
+                 then the user could start server

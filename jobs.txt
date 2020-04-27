@@ -1,0 +1,47 @@
+job : Associate Software Engineer, Frontend
+company : slack
+status:not applied
+
+job : Python Backend Developer (m/f/d) - Industrial Data Science and Software
+company : Smart Steel Technologies GmbH
+status:not applied
+
+job : Python Developer (m/f/d)
+company : e-bot7 GmbH
+status:not applied
+
+job : Software developer python (m / f / d)
+company : targens GmbH
+status:not applied
+
+
+job : Python / Django Software Developer
+company : ClimatePartner GmbH
+status:not applied
+
+job : Software Engineer
+company : Faurecia
+status:not applied
+
+
+job:Software Developer
+company:Noblis
+status:not applied
+
+
+job: Software Developer II
+company:Advicent Solutions
+status:not applied
+
+job: Software Developer
+company: BrainTrust Holdings
+status:not applied
+
+job:Python software developer (f / m / d) - application development, IT
+company:MAGNA Telemotive GmbH
+status:not applied
+
+job: Odoo / Python Developer (m / f / d)
+company: gastronovi GmbH
+url: www.gastronovi.com/jobs
+status: not applied
